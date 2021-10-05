@@ -6,8 +6,8 @@ Audio translator using python.
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-A program that can translate audio.
-Work in progress.
+* A program that can translate audio.
+* Work in progress.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
